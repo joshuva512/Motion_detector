@@ -1,5 +1,5 @@
-# Moton_detector
-It detect movement and it save time details as csv file.
+# Motion_detector
+Application that detect the movement of the objects and record time duration of the object's movement. It could be exported as csv file. 
 # Application Type
   python file
 # To Run Application
